@@ -1,0 +1,36 @@
+  Kolko_Krzyzyk2.Form1.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Kolko_Krzyzyk2, Version=1.0.*, Culture=Język niezmienny (kraj niezmienny): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class CppCLR_WinformsProjekt.Form1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Boolean isGame : Public
+    Int32 buttonIndex : Public
+    System.String title : Public
+    System.String mark : Public
+    UInt32 sock : Public
+  Methods:
+    ClientCodeSend(): PrivateScope, Public, HideBySig
+    ClientCodeRecv(): PrivateScope, Public, HideBySig
+    WaitForResponse(): PrivateScope, Public, HideBySig
+    TurnOnButtons(): PrivateScope, Public, HideBySig
+    Occupied(Button): PrivateScope, Public, HideBySig
+    MarkAdded(Button): PrivateScope, Public, HideBySig
+    AddOpponentMark(String): PrivateScope, Public, HideBySig
+    Winning(String): PrivateScope, Public, HideBySig
+    Remis(): PrivateScope, Public, HideBySig
+    EndGame(): PrivateScope, Public, HideBySig

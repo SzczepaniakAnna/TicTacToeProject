@@ -1,0 +1,5 @@
+﻿  CppCLR_WinformsProjekt.cpp
+c:\users\saturn\source\repos\kolko_krzyzyk2\kolko_krzyzyk2\form1.h(98): warning C4101: "recvBuf": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\saturn\source\repos\kolko_krzyzyk2\kolko_krzyzyk2\form1.h(385): warning C4715: "CppCLR_WinformsProjekt::Form1::Winning”: niewszystkie ścieżki kodu zwracają wartość
+  AssemblyInfo.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
+  Kolko_Krzyzyk2.vcxproj -> C:\Users\Saturn\source\repos\Kolko_Krzyzyk2\Debug\Kolko_Krzyzyk2.exe
